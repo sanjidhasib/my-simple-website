@@ -1,4 +1,4 @@
-div{
+.div{
     background-color: tomato;
     padding: 10px;
     box-shadow: blue;
@@ -11,4 +11,12 @@ div{
     margin-bottom: 2%;
     text-decoration: underline blue;
     /* text-decoration: underline black; */
+}
+#b{
+    size: bold;
+    background-color: aqua;
+}
+#c{
+    font-size: larger;
+    color: brown;
 }
